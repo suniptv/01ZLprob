@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://tvbezgranica.org:80/xmltv.php?username=tvbox1234567890&password=boxtv1234567890"
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="BOSNA I HERCEGOVINA" tvg-logo="http://tvbezgranica.org:80/images/a1aab330c19095a4171d2c8d0ff6a4e0.png" group-title="Bosna i Hercegovina",BOSNA I HERCEGOVINA
 http://tvbezgranica.org:80/tvbox1234567890/boxtv1234567890/78.ts
 #EXTINF:-1 tvg-id="nova-bh" tvg-name="Nova BH" tvg-logo="http://tvbezgranica.org:80/images/16fd06ec9fd61c3b3e9342e1eb877c36.png" group-title="Bosna i Hercegovina",Nova BH
